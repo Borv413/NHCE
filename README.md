@@ -60,4 +60,4 @@ Astronomer's Visual Pack Support
 - Adds AVP visuals to New Horizons(Not yet in as of writing this)
 	
 Community Resource Pack Compatibility
-- Adds support for custom resources for mods such as the USI catalogue, Extra-Planetary Launchpads & many more.
+- Adds support for custom resources for mods such as the USI catalogue, Extra-Planetary Launchpads & many more.(Not yet implemented)
