@@ -4,7 +4,7 @@ New Horizons Community Edition
 
 Originally created by: KillAshley (ashleydavies@live.co.uk)
 
-NHCE Devs: Borv, coyotesfrontier
+NHCE Devs: Borv413, coyotesfrontier
 
 Contributors:
 - Thomas P		(advice and tweaks)
