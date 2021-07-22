@@ -57,7 +57,7 @@ Custom scatterer configs
 - Adds scatterer configs to atmospheric bodies so that they look that little bit better.
 	
 Astronomer's Visual Pack Support
-- 
+- Adds AVP visuals to New Horizons(Not yet in as of writing this)
 	
 Community Resource Pack Compatibility
 - Adds support for custom resources for mods such as the USI catalogue, Extra-Planetary Launchpads & many more.
