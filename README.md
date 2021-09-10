@@ -62,3 +62,7 @@ Astronomer's Visual Pack Support
 	
 Community Resource Pack Compatibility
 - Adds support for custom resources for mods such as the USI catalogue, Extra-Planetary Launchpads & many more.(Not yet implemented)
+
+UL compatibility
+- Replaces the Stock bodies with the ones from Uncharted Lands(Future plans)
+
