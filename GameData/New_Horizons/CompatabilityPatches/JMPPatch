@@ -1,0 +1,46 @@
+
+
+@Body[Doppler]
+	{
+		@Orbit
+		{
+			@inclination = 16.86
+            @eccentricity = 0.22
+			@semiMajorAxis = 32132092473
+			@longitudeOfAscendingNode = 93.7
+			@argumentOfPeriapsis = 102.75
+		}
+	}
+	@Body[Euribanne]
+	{
+		@Orbit
+		{
+			@inclination = 12.42
+            @eccentricity = 0.09
+			@semiMajorAxis = 58214486865
+			@longitudeOfAscendingNode = 99.9
+			@argumentOfPeriapsis = 59.36
+		}
+	}
+	@Body[Palloocus-Palloomus]
+	{
+		@Orbit
+		{
+			@inclination = 17.891
+            @eccentricity = 0.18
+			@semiMajorAxis = 76844981884
+			@longitudeOfAscendingNode = 103.32
+			@argumentOfPeriapsis = 152.56
+		}
+	}
+	@Body[Quazen]
+	{
+		@Orbit
+		{
+			@inclination = 8.06
+            @eccentricity = 0.3
+			@semiMajorAxis = 117173731457
+			@longitudeOfAscendingNode = 118.31
+			@argumentOfPeriapsis = 286.189
+		}
+	}
