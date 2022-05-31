@@ -1,4 +1,4 @@
-
+@Kopernicus:AFTER[New_Horizons]:NEEDS[JanetsPlanets,!GalacticNeighborhood]
 
 @Body[Doppler]
 	{
